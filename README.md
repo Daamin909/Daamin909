@@ -8,4 +8,4 @@
   <br>
 </div>
 <h2>Snake eating contributions</h2>
-<img src="https://raw.githubusercontent.com/meesam4687/Daamin909/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Daamin909/Daamin909/output/github-contribution-grid-snake-dark.svg">

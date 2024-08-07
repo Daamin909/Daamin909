@@ -8,5 +8,5 @@
   <br>
 </div>
 <h2>About Me.</h2>
-<web href="https://daamin.is-a.dev">My Website</web>
+<a href="https://daamin.is-a.dev">My Website</a>
 <p>I'm a budding developer with a passion for coding and technology. Skilled in Java, Python, JavaScript, and C++.</p>

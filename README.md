@@ -7,5 +7,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesam4687&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
   <br>
 </div>
-<h2>Snake eating contributions</h2>
-<img src="https://raw.githubusercontent.com/Daamin909/Daamin909/output/github-contribution-grid-snake-dark.svg">
+<h2>About Me.</h2>
+<web href="https://daamin.is-a.dev">My Website</web>
+<p>I'm a budding developer with a passion for coding and technology. Skilled in Java, Python, JavaScript, and C++.</p>

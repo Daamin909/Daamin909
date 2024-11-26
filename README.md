@@ -9,19 +9,30 @@
 <div>
 <h2>Skills</h2>
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Daamin-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Daamin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Daamin-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Daamin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Daamin-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img height="40" align="center" alt="Daamin-Arduino" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
-  <img height="40" align="center" alt="Daamin-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="ReactJS" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="HTML" />
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="CSS" />
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Java" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Arduino" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Python" />
+<img src="https://img.shields.io/badge/-ZorinOS-0D5A8B?logo=zorin&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="ZorinOS" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Git" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Docker" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="VSCode" />
+<img src="https://img.shields.io/badge/-IntelliJIDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="IntelliJ" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="C++" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Flask" />
+<img src="https://img.shields.io/badge/-Groq-1A202C?logo=groq&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Groq" />
+<img src="https://img.shields.io/badge/-HTTP/HTTPS-90C53F?logo=http&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="HTTP/HTTPS" />
+<img src="https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="JSON" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Linux_Bash-000000?logo=linux&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="Linux Bash" />
+<img src="https://img.shields.io/badge/-PowerShell-2E2D2B?logo=powershell&logoColor=white&style=for-the-badge&logoWidth=80&height=80&font-size=22" alt="PowerShell" />
+
+
+
 </div>
 </div>
 <br>

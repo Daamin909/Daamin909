@@ -2,10 +2,10 @@
 <div>
 
   **I am great with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,flask,git)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,flask,git)](https://github.com/daamin909)
 
 **I am okay with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=py,mongodb,linux,vercel,vscode)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,linux,vercel,vscode)](https://github.com/daamin909)
 
 **I am learning:** <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,androidstudio)](https://github.com/daamin909)

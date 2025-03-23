@@ -21,6 +21,8 @@
 <div>
   <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daamin909&theme=tokyonight'>
   <br>
+   <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=237&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
+
 </div>
 <br>
 <h2> Contact </h2>

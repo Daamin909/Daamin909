@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,figma,cpp,bash,powershell)](https://github.com/daamin909)
 
 **I want to try:** <br>
-[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,tailwindcss,nextjs,aws)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,tailwindcss,nextjs,aws,rust,golang,pytorch)](https://github.com/daamin909)
 
 </div>
 <h2>Stats</h2>

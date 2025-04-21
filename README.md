@@ -2,16 +2,13 @@
 <div>
 
   **I am great with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,flask,git)](https://github.com/daamin909)
-
-**I am okay with:** <br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,linux,vercel,vscode)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,flask,react,)](https://github.com/daamin909)
 
 **I am learning:** <br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,androidstudio)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,androidstudio)](https://github.com/daamin909)
 
 **I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,figma,cpp,bash,powershell)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=github,figma,cpp,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/daamin909)
 
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,kotlin,tailwindcss,nextjs,aws,rust,golang,pytorch)](https://github.com/daamin909)

@@ -16,9 +16,13 @@
 </div>
 <h2>Stats</h2>
 <div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daamin909&layout=compact&langs_count=6&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daamin909&theme=tokyonight">
+  <br> 
   <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daamin909&theme=tokyonight'>
   <br>
-   <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=237&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
+  <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=237&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
 
 </div>
 <br>

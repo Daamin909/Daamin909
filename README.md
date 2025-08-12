@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,golang)](https://github.com/daamin909)
 
 **I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,figma,cpp,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/daamin909)
+[![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,mongodb,arduino,raspberrypi)](https://github.com/daamin909)
 
 **I want to try:** <br>
 [![My Skills](https://skillicons.dev/icons?i=kotlin,tailwindcss,nextjs,aws,rust,pytorch)](https://github.com/daamin909)

@@ -1,4 +1,5 @@
 <h2><img align=center src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="20px"> Hey There, I'm Daamin.</h2>
+
 <div>
 
   **I am great with:** <br>
@@ -16,14 +17,15 @@
 </div>
 <h2>Stats</h2>
 <div>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daamin909&layout=compact&langs_count=6&theme=tokyonight">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daamin909&theme=tokyonight">
-  <br> 
-  <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daamin909&theme=tokyonight'>
+   <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daamin909&theme=tokyonight'>
   <br>
   <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=237&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
 
+</div>
+<br>
+<div>
+<h4>Status:</h2>
+<a href="https://discord.com/users/1207218911758647296"><img src="https://lanyard.cnrad.dev/api/1207218911758647296?idleMessage=not%20doing%20anything%20rn&theme=dark&showDisplayName=true&hideTag=true&hideBadges=true" /></a>
 </div>
 <br>
 <h2> Contact </h2>

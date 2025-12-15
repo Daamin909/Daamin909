@@ -17,13 +17,8 @@
 </div>
 <h2>Stats</h2>
 <div>
-   <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daamin909&theme=tokyonight'>
+   <img alt='stats' src='https://github-readme-stats.vercel.app/api?username=daamin909&show_icons=true&theme=tokyonight'>
   <br>
   <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=237&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
 
 </div>
-<br>
-<div>
-<h4>Status:</h2>
-<a href="https://discord.com/users/1207218911758647296"><img src="https://lanyard.cnrad.dev/api/1207218911758647296?idleMessage=not%20doing%20anything%20rn&theme=dark&showDisplayName=true&hideTag=true&hideBadges=true" /></a>
-

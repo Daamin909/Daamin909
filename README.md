@@ -6,9 +6,11 @@ some cool stuff about me?
 
 thats mostly it.
 
+## hackathons!
+- me @ [overglade](https://overglade.hackclub.com) in singapore  
 
-me @ [overglade](https://overglade.hackclub.com) in singapore  
 ![](https://github.com/user-attachments/assets/853ebcc2-2e94-4f72-9b42-ec0d90ace1b7)
 
-me @ [campfire flagship](https://flagship.hackclub.com) in los angeles
+- me @ [campfire flagship](https://flagship.hackclub.com) in los angeles
+
 ![](https://github.com/user-attachments/assets/8b23ac55-b9b1-463c-b24e-7c61e85bcee3)

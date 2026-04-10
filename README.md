@@ -15,4 +15,4 @@ thats mostly it.
 
 ## stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daamin909&theme=dark&hide_border=true&border_radius=10&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daaminashai&theme=dark&hide_border=true&border_radius=10&background=000000)](https://git.io/streak-stats)

@@ -1,7 +1,6 @@
-## heyo! i'm Daamin :D
+## hey! i'm Daamin
 some cool stuff about me?
 - i host & attend hackathons
-- i also code 
 - i love building cool shit like – [chessbro.org](https://chessbro.org)
 - i work on open source projects like -  [flavortown](https://flavortown.hackclub.com) @ hack club
 

@@ -15,3 +15,6 @@ thats mostly it.
 ## stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=daaminashai&theme=dark&hide_border=true&border_radius=10&background=000000)](https://git.io/streak-stats)
+
+## support
+<p><a href="https://www.buymeacoffee.com/daamin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daamin" /></a></p><br><br>
